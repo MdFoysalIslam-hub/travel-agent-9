@@ -1,0 +1,19 @@
+img{
+    justify-content: center;
+    margin-left: 800px;
+}
+label {
+    display: block;
+    font: 4rem 'Fira Sans', sans-serif;
+}
+
+input{
+    font: 3rem 'Fira Sans', sans-serif;
+}
+label {
+    margin: .6rem 0;
+}
+
+.adress{
+    margin-left: 200px;
+}

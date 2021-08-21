@@ -1,0 +1,12 @@
+.image{
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    padding: 40PX;
+    border: 5px solid rgb(60, 219, 224);
+    border-radius: 10px;
+    background-color: rgb(51, 250, 250) ;
+}
+div{
+    background-color: rgb(28, 184, 231);
+}
