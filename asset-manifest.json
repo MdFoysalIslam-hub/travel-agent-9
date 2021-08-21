@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/traval-agent-assaginment-9/static/css/main.24098d4c.chunk.css",
+    "main.js": "/traval-agent-assaginment-9/static/js/main.7ed82f9b.chunk.js",
+    "main.js.map": "/traval-agent-assaginment-9/static/js/main.7ed82f9b.chunk.js.map",
+    "runtime-main.js": "/traval-agent-assaginment-9/static/js/runtime-main.d768d1b9.js",
+    "runtime-main.js.map": "/traval-agent-assaginment-9/static/js/runtime-main.d768d1b9.js.map",
+    "static/js/2.134b1322.chunk.js": "/traval-agent-assaginment-9/static/js/2.134b1322.chunk.js",
+    "static/js/2.134b1322.chunk.js.map": "/traval-agent-assaginment-9/static/js/2.134b1322.chunk.js.map",
+    "static/js/3.daf9dc20.chunk.js": "/traval-agent-assaginment-9/static/js/3.daf9dc20.chunk.js",
+    "static/js/3.daf9dc20.chunk.js.map": "/traval-agent-assaginment-9/static/js/3.daf9dc20.chunk.js.map",
+    "index.html": "/traval-agent-assaginment-9/index.html",
+    "static/css/main.24098d4c.chunk.css.map": "/traval-agent-assaginment-9/static/css/main.24098d4c.chunk.css.map",
+    "static/js/2.134b1322.chunk.js.LICENSE.txt": "/traval-agent-assaginment-9/static/js/2.134b1322.chunk.js.LICENSE.txt",
+    "static/media/Map.fb4f57bc.png": "/traval-agent-assaginment-9/static/media/Map.fb4f57bc.png",
+    "static/media/background.a383a837.png": "/traval-agent-assaginment-9/static/media/background.a383a837.png",
+    "static/media/bike.2d6146f5.png": "/traval-agent-assaginment-9/static/media/bike.2d6146f5.png",
+    "static/media/bus.8d58d4d8.png": "/traval-agent-assaginment-9/static/media/bus.8d58d4d8.png",
+    "static/media/car.8a50352e.png": "/traval-agent-assaginment-9/static/media/car.8a50352e.png",
+    "static/media/train.b5da43c7.png": "/traval-agent-assaginment-9/static/media/train.b5da43c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d768d1b9.js",
+    "static/js/2.134b1322.chunk.js",
+    "static/css/main.24098d4c.chunk.css",
+    "static/js/main.7ed82f9b.chunk.js"
+  ]
+}
